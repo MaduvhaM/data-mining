@@ -1,5 +1,7 @@
-Name: Malange Maduvha
+Name: Malange Maduvha 
+
 Student Number : 23923173 
+
 Cos 781: Project
 
  Machine Translation for Low-Resource Languages
